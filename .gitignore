@@ -1,7 +1,3 @@
-## ignore these
-bin/
-lib/python3.7/
-
 ### macOS template
 # General
 .DS_Store
